@@ -31,7 +31,7 @@ public class NQueen {
 	   }
 	   return true;
 	}
-	/* It mainly uses isSafe() to solve the problem. It returns false if queens cannot be placed, 
+	/* It mainly uses isSafe() to solve the problem. It returns false if queens cannot be placed. 
 	 * otherwise return true.
 	 *there may be more than one solutions, this function prints one of the feasible solutions.
 	 */
